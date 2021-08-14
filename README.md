@@ -1,7 +1,8 @@
 # Customizing your video searches on YouTube
 
-*author: Dorota Wójcik
-date: "8/14/2021*
+*author: Dorota Wójcik*
+
+*date: 8/14/2021*
 
 ## Purpose
 
