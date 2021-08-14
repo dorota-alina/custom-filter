@@ -1,9 +1,5 @@
 # Customizing your video searches on YouTube
 
-*author: Dorota Wójcik*
-
-*date: 8/14/2021*
-
 ## Purpose
 
 Learn how to filter out all the YouTube videos that have been uploaded this week and are not longer
@@ -19,7 +15,9 @@ To filter out last week's YouTube videos that are under 4-min-long, you can eith
 
 ### Video instruction
 
-Learn it the quickest way: Checking [this video](https://user-images.githubusercontent.com/63733226/129234494-935af5d9-bc01-476b-97d0-99d56747f7b1.mp4) will take 20 seconds only.
+Learn it the quickest way: Checking this video will take 20 seconds only.
+
+https://user-images.githubusercontent.com/63733226/129234494-935af5d9-bc01-476b-97d0-99d56747f7b1.mp4
 
 ### Step-by-step
 
