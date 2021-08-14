@@ -1,18 +1,8 @@
----
-title: "Customizing your video searches on YouTube"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-author: "Dorota Wójcik"
-date: "8/14/2021"
-output: html_document
----
+# Customizing your video searches on YouTube
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+*author: Dorota Wójcik
+date: "8/14/2021*
+
 ## Purpose
 
 Learn how to filter out all the YouTube videos that have been uploaded this week and are not longer
